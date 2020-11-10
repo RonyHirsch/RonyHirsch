@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hi 👋
+I'm Rony, BSc in computer science and MSc candidate in neuroscience at [Tel-Aviv University](https://scholar.google.com/citations?user=Ie-iMfQAAAAJ&hl=en&oi=ao).
 
+I am taking part in the [Cogitate consortium](https://arc-cogitate.com/people/rony-hirschhorn/) which is an adverserial collaboration in consciousness research.
+
+### Things I work with
+<img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/python_icon.png" width="25" height="25"/>&nbsp;&nbsp;<img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/c_sharp_icon.png" width="25" height="25"/>&nbsp;&nbsp;<img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/unity_icon.png" width="25" height="25"/>&nbsp;&nbsp;<img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/c_icon.png" width="25" height="25"/>&nbsp;&nbsp;<img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/git_icon.png" width="25" height="25"/>&nbsp;&nbsp;<img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/photoshop_icon.png" width="25" height="25"/>
+
+### Where to find me
+<a href="https://twitter.com/RonyHirsch" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rony-hirschhorn-046219b4" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <!--
 **RonyHirsch/RonyHirsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
