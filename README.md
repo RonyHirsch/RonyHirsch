@@ -1,7 +1,7 @@
 ## Hi 👋
-I'm Rony, BSc in computer science and MSc candidate in neuroscience at [Tel-Aviv University](https://scholar.google.com/citations?user=Ie-iMfQAAAAJ&hl=en&oi=ao).
+I'm Rony, B.Sc. in computer science, M.Sc. in computational neuroscience and a Ph.D. candidate at [Tel-Aviv University](https://scholar.google.com/citations?user=Ie-iMfQAAAAJ&hl=en&oi=ao).
 
-I am taking part in the [Cogitate consortium](https://arc-cogitate.com/people/rony-hirschhorn/) which is an adverserial collaboration in consciousness research.
+I am taking part in the [Cogitate consortium](https://arc-cogitate.com/people/rony-hirschhorn/) which is an adverserial collaboration in consciousness research. I write data analysis pipelines for subjects' behavioral data and eye-tracking data collected during the experiment. 
 
 ### Things I work with
 <img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/python_icon.png" width="25" height="25"/>&nbsp;&nbsp;<img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/c_sharp_icon.png" width="25" height="25"/>&nbsp;&nbsp;<img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/unity_icon.png" width="25" height="25"/>&nbsp;&nbsp;<img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/c_icon.png" width="25" height="25"/>&nbsp;&nbsp;<img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/git_icon.png" width="25" height="25"/>&nbsp;&nbsp;<img src="https://github.com/RonyHirsch/RonyHirsch/blob/main/icons/photoshop_icon.png" width="25" height="25"/>
